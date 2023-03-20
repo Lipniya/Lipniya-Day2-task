@@ -1,0 +1,13 @@
+Window Object:
+     It is the top most object and outermost element of the object hieraxhy.
+                           window.method_name;
+
+Document Object:
+      Each html document that gets loaded into a window becomes a document object.The document contains the contents of the page.
+      Using document object,Javascript can modify ,add and delete the html elements,attributes css styles in the page.
+                           document.property_name;
+(1) let URL=window.Document.URL;
+    console.log(URL);
+
+(2) document.title
+    document.scripts
